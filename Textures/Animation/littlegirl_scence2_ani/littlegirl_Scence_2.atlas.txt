@@ -1,0 +1,76 @@
+
+littlegirl_Scence_2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_chan
+  rotate: true
+  xy: 775, 225
+  size: 103, 152
+  orig: 103, 152
+  offset: 0, 0
+  index: -1
+L_tay
+  rotate: false
+  xy: 2, 2
+  size: 202, 170
+  orig: 202, 170
+  offset: 0, 0
+  index: -1
+R_chan
+  rotate: false
+  xy: 419, 81
+  size: 101, 139
+  orig: 101, 139
+  offset: 0, 0
+  index: -1
+R_tay
+  rotate: false
+  xy: 775, 330
+  size: 174, 135
+  orig: 174, 135
+  offset: 0, 0
+  index: -1
+dau
+  rotate: false
+  xy: 261, 222
+  size: 274, 243
+  orig: 274, 243
+  offset: 0, 0
+  index: -1
+diem
+  rotate: false
+  xy: 268, 87
+  size: 149, 133
+  orig: 149, 133
+  offset: 0, 0
+  index: -1
+mat_mo
+  rotate: true
+  xy: 206, 22
+  size: 150, 60
+  orig: 150, 60
+  offset: 0, 0
+  index: -1
+mat_nham
+  rotate: true
+  xy: 951, 330
+  size: 135, 47
+  orig: 135, 47
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 2, 174
+  size: 257, 291
+  orig: 257, 291
+  offset: 0, 0
+  index: -1
+vay
+  rotate: false
+  xy: 537, 223
+  size: 236, 242
+  orig: 236, 242
+  offset: 0, 0
+  index: -1
